@@ -8,7 +8,7 @@ To let the program works properly, please follow these steps:
 2. Connect your phone to the computer, enabled the USB debugging mode on your phone.
 3. Open Vysor on your computer, allow it to install a program on your phone. After you see your phone screen on the computer, drag the window to the left, about 1/3 of the screen.
 4. Open your Jump-jump, press Start Game.
-5. Open "Project1.exe" in this repository, then click the start point and the end point on the screen every time you prepared to jump.
+5. Open "Jump.exe" of this repository, then click the start point and the end point on the screen every time you prepared to jump.
 
 You can fully enjoy this program now!
 
