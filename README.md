@@ -1,7 +1,7 @@
 # Jump-jump
 ONLY WORK ON ANDROID PHONES
 
-This program aims to improve your score of a Wechat's small game, Jump-jump.
+This program aims to improve your score on a Wechat's small game, Jump-jump.
 
 To let the program works properly, please follow these steps:
 1. Download Vysor from http://vysor.io/ , which would help to project your phone's screen onto computer.
