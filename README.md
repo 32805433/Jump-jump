@@ -15,3 +15,4 @@ You can fully enjoy this program now!
 If things do not work out right, you may check the following:
 1. Make sure that the window of Vysor is placed in the right position (i.e. the point (400,400) is on the window).
 2. If the distance you jump is not accurate, check that the window of the Vysor has a width of 418.
+3. Do not change the name of "Jump.exe"
